@@ -1,0 +1,14 @@
+#
+#  Silver Tau - Wavefront MTL
+#
+
+newmtl CubeMat
+Kd 0.8 0.8 0.8
+Tr 0
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ns 0
+Pm 0
+Ka 1
+Ke 0 0 0
+#

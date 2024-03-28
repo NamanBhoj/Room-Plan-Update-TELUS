@@ -1,0 +1,84 @@
+#
+#  Silver Tau - Wavefront MTL
+#
+
+newmtl obj_material_door
+Kd 0.1351014 0.8679245 0.7917469
+Tr 0
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ns 0.5
+Pm 0.2
+Ka 0.541
+Ke 0.2075472 0.1550077 0.1243325
+
+newmtl obj_material_storage
+Kd 0.6191446 0.2039215 0.8862745
+Tr 0
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ns 0.5
+Pm 0.2
+Ka 0.541
+Ke 0.2075472 0.1550077 0.1243325
+
+newmtl obj_material_chair
+Kd 0.2742968 0.8679245 0.2866028
+Tr 0
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ns 0.5
+Pm 0.2
+Ka 0.541
+Ke 0.2075472 0.1550077 0.1243325
+
+newmtl obj_material_table
+Kd 0.2049662 0.4297516 0.8867924
+Tr 0
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ns 0.5
+Pm 0.2
+Ka 0.541
+Ke 0.2075472 0.1550077 0.1243325
+
+newmtl obj_material_sofa
+Kd 0.8862745 0.2039215 0.2301019
+Tr 0
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ns 0.5
+Pm 0.2
+Ka 0.541
+Ke 0.2075472 0.1550077 0.1243325
+
+newmtl obj_material_opening
+Kd 0.8862745 0.7653483 0.2039215
+Tr 0
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ns 0.5
+Pm 0.2
+Ka 0.541
+Ke 0.2075472 0.1550077 0.1243325
+
+newmtl obj_material_wall
+Kd 0.8679245 0.8679245 0.8679245
+Tr 0
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ns 0.5
+Pm 0.2
+Ka 0.541
+Ke 0.2075472 0.1550077 0.1243325
+
+newmtl obj_material_window
+Kd 0.3773585 0.3773585 0.3773585
+Tr 0
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ns 0.5
+Pm 0.2
+Ka 0.541
+Ke 0.2075472 0.1550077 0.1243325
+#

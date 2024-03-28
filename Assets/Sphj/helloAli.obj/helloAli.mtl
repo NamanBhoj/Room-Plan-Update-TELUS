@@ -1,0 +1,14 @@
+#
+#  Silver Tau - Wavefront MTL
+#
+
+newmtl New Material
+Kd 0.9716981 0 0
+Tr 0
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ns 0.5
+Pm 0
+Ka 1
+Ke 0 0 0
+#

@@ -1,0 +1,19 @@
+{
+  "name": "com.silvertau.roomplanunitykit",
+  "version": "1.3.7",
+  "displayName": "RoomPlan for Unity Kit",
+  "description": "RoomPlan for Unity Kit\n\nThe RoomPlan for Unity Kit is a set of tools that allow you to easily implement, interact with the RoomPlan API and ARKit in the Unity environment for your application.",
+  "author": {
+      "name": "Silver Tau",
+      "url": "https://www.silvertau.com/"
+  },
+  "keywords": [
+    "RoomPlan",
+    "Room",
+    "Plan",
+    "API",
+    "AR",
+    "XR",
+    "Framework"
+  ]
+}
