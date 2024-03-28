@@ -2,7 +2,7 @@
 #March 28, 2024
 #12:42:19 PM
 #-------
-mtllib Export_Model.mtl
+mtllib ./Export_Model.mtl
 
 #exportModel
 #-------
