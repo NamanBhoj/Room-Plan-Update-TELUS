@@ -2,11 +2,11 @@
 #March 28, 2024
 #2:00:33 PM
 #-------
-mtllib Export_Model.mtl
+mtllib ./Export_Model.mtl
 
 #Cube
 #-------
-g Cube
+
 v 1 -1 -1
 v -1 -1 -1
 v 1 1 -1
